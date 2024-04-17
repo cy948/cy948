@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cy948
 - 👀 I’m interested in frontend software building
-- 🌱 I’m currently learning vite
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently working for the features on [LobeChat](https://github.com/lobehub/lobe-chat)
+- 💞️ I’m looking to collaborate on some AIGC apps
 - 📫 Reach me on github.com
 
 <!---
